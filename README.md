@@ -1,2 +1,4 @@
 # BucksModpackAndBucksResourcePack
-Lütfen READMEyi oku Kesin Okumazsın
+Kaynak paketini minecraftın resourcepacks klasörüne atacaksın SAKIN ZİPTEN ÇIKARMA YOKSA OLMAZ fakat Modpaketinin içini açıp içindeki klasörü minecraftın versions klasörüne atacaksın ZİP HALİ İLE ATMA SAĞ TIKLAYIP TÜMÜNE AYIKLAYA BAS.
+                                                                                                         İYİ OYUNLAR.
+                                                                                                         Sürüm:Forge 1.20.1
